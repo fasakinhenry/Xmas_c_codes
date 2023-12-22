@@ -7,7 +7,7 @@ C is a procedural high level programming language designed for system and applic
 
 # Important Info on C
 
-| **Paradigm**           | Multi-paradigm: imperative (procedural), structured                             |
+| **Paradigm** | Multi-paradigm: imperative (procedural), structured   |
 | **Designed by**        | Dennis Ritchie                                                              |
 | **Developer**          | ANSI X3J11 (ANSI C); ISO/IEC JTC 1 (Joint Technical Committee 1) / SC 22 (Subcommittee 22) / WG 14 (Working Group 14) (ISO C) |
 | **First appeared**     | 1972; 51 years ago[2]                                                      |
