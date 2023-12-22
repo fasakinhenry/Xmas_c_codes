@@ -7,7 +7,7 @@ C is a procedural high level programming language designed for system and applic
 
 # Important Info on C
 
-|        Info header          |                               | Information |
+|                  |                               |
 | ----------------- | ----------------------------- |
 | **Paradigm**      | Multi-paradigm: imperative (procedural), structured                             |
 | **Designed by**   | Dennis Ritchie                                                              |
