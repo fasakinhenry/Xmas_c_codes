@@ -42,4 +42,4 @@ C is a very old and unique language. it comes with its own special syntax which 
 
 - **Legacy code compatibility** : Many existing software systems and libraries are written in C. Knowledge of C allows developers to maintain and integrate with legacy codebases.
 
-- **Influences on other languages** :
+- **Influences on other languages** :  C has had a significant influence on the development of other programming languages, such as C++, C#, and Objective-C. Learning C provides a solid foundation for understanding many modern languages.
