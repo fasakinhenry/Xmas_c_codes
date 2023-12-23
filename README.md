@@ -43,3 +43,5 @@ C is a very old and unique language. it comes with its own special syntax which 
 - **Legacy code compatibility** : Many existing software systems and libraries are written in C. Knowledge of C allows developers to maintain and integrate with legacy codebases.
 
 - **Influences on other languages** :  C has had a significant influence on the development of other programming languages, such as C++, C#, and Objective-C. Learning C provides a solid foundation for understanding many modern languages.
+
+- **Versatility** : C is said to be versatile in two ways. It is general purpose and it can fit in perfectly as a low-level language and still have some of the features of high-level language. C is sometimes classified as a middle level language but that is not a standard though. It is best regarded as a low-level language 
