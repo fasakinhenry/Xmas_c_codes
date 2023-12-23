@@ -38,4 +38,8 @@ C is a very old and unique language. it comes with its own special syntax which 
 
 - **Extensibility** : C codes are extensible in that when a code is written  in C, more features and functionalies can be added with minor alterations
 
-- **Embedded systems development** : C is widely used in embedded system development because of its efficiency and control over hardware resources,
+- **Embedded systems development** : C is widely used in embedded system development because of its efficiency and control over hardware resources.
+
+- **Legacy code compatibility** : Many existing software systems and libraries are written in C. Knowledge of C allows developers to maintain and integrate with legacy codebases.
+
+- **Influences on other languages** :
