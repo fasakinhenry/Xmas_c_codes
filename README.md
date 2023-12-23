@@ -48,3 +48,4 @@ C is a very old and unique language. it comes with its own special syntax which 
 
 ## Cons of C
 
+- **Lack of OOP features** : 
