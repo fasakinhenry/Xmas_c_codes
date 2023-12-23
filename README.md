@@ -30,4 +30,6 @@ C is a very old and unique language. it comes with its own special syntax which 
 
 - **Structure** : C is very structured in that it allows you to break a larger problem into smaller chunks (modularization). It breaks problems into modules and functions that are easier to debug, modify and develop.
 
+- **Portability** : c has the capability to run on different platforms as it is very much machine-dependent thereby making it possible to run on different machines. Even though C is very unique to the UNIX operating system, it still retains it's portability and works on multiple platforms.
+
 
