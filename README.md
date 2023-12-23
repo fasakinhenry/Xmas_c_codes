@@ -48,4 +48,4 @@ C is a very old and unique language. it comes with its own special syntax which 
 
 ## Cons of C
 
-- **Lack of OOP features** : C is not an object-oriented programming (OOP) language and therefore lacks features such as classes and inheritance.
+- **Lack of OOP features** : C is not an object-oriented programming (OOP) language and therefore lacks features such as classes and inheritance.OOP is a feature that supports the creation of subclasses from parent classes but C lacks this feature. Also multiple inheritances is not possible in C unlike languages like C++, C# etc.
