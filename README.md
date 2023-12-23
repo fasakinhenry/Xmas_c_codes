@@ -34,3 +34,4 @@ C is a very old and unique language. it comes with its own special syntax which 
 
 - **Rich standard Library** : C comes with a comprehensive standard library that provides a variety of functions for common tasks such as input/output operations, string manipulation, and memory allocation. These libraries make development easier
 
+**Efficiency & Performance** : C allows for low-level manipulation of data and has minimal runtime overhead, making it highly efficient. Its proximity to machine-level operations allows for fine-tuning and optimization. Also,
