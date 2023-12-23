@@ -32,4 +32,5 @@ C is a very old and unique language. it comes with its own special syntax which 
 
 - **Portability** : c has the capability to run on different platforms as it is very much machine-dependent thereby making it possible to run on different machines. Even though C is very unique to the UNIX operating system, it still retains it's portability and works on multiple platforms.
 
+- **Rich standard Library** : C comes with a comprehensive standard library that provides a variety of functions for common tasks such as input/output operations, string manipulation, and memory allocation. These libraries make development easier
 
