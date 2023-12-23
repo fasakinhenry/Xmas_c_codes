@@ -14,8 +14,7 @@ C is a procedural high level programming language designed for system and applic
 | **Developer**     | ANSI X3J11 (ANSI C); ISO/IEC JTC 1 (Joint Technical Committee 1) / SC 22 (Subcommittee 22) / WG 14 (Working Group 14) (ISO C) |
 | **First appeared**| 1972; 51 years ago                                                      |
 | **Stable release**| C17 / June 2018; 5 years ago                                               |
-| **Preview release**| C23 (N3096) / April 2, 2023; 8 months ago[
-                                |
+| **Preview release**| C23 (N3096) / April 2, 2023; 8 months ago |
 | **Typing discipline**| Static, weak, manifest, nominal                                            |
 | **OS**            | Cross-platform                                                             |
 | **Filename extensions**| .c, .h                                                                     |
