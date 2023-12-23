@@ -37,3 +37,5 @@ C is a very old and unique language. it comes with its own special syntax which 
 - **Efficiency & Performance** : C allows for low-level manipulation of data and has minimal runtime overhead, making it highly efficient. Its proximity to machine-level operations allows for fine-tuning and optimization. Also, C is a compiled language making compilation and execution of code speedy since only required features are included.
 
 - **Extensibility** : C codes are extensible in that when a code is written  in C, more features and functionalies can be added with minor alterations
+
+- **Embedded systems development** : C is widely used in embedded system development because of its efficiency and control over hardware resources,
