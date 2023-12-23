@@ -24,5 +24,10 @@ C is a procedural high level programming language designed for system and applic
 | **Influenced by** | B (BCPL, CPL), ALGOL 68,[4] PL/I, FORTRAN                                   |
 | **Influenced**    | Numerous: AMPL, AWK, csh, C++, C--, C#, Objective-C, D, Go, Java, JavaScript, JS++, Julia, Limbo, LPC, Perl, PHP, Pike, Processing, Python, Rust, Seed7, V (Vlang), Vala, Verilog (HDL),[5] Nim, Zig |
 
+# Pros of using C
+
+C is a very old and unique language. it comes with its own special syntax which has even been adopted by modern day languages. The following are some of the reasons why C is preferred even in this modern age:
+
+- **Structure** : C is very structured in that it allows you to break a larger problem into smaller chunks (modularization). It breaks problems into modules and functions that are easier to debug, modify and develop.
 
 
