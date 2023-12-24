@@ -54,4 +54,4 @@ C is a very old and unique language. it comes with its own special syntax which 
 
 - **No Built-in String Type** : C does not have a built-in string type, and strings are typically represented as character arrays. This can lead to complexities and vulnerabilities in string manipulation.
 
-- **Lack of automatic garbage collection** : C lacks automatic garbage collection which is a feature that reclaims memory from objects which are no longer in use in the library or app. This means developers must manually handle memory allocation and deallocation and this can lead to memory related errors if not handled properly.
+- **Lack of automatic garbage collection** : C lacks automatic garbage collection which is a feature that involves reclaiming memory from objects which are no longer in use in the library or app. This means developers must manually handle memory allocation and deallocation and this can lead to memory related errors if not handled properly.
