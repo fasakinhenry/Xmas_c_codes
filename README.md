@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Introduction](https://github.com/be-great/Xmas_c_codes/blob/main/concepts/Introduction.md)
+1. [Introduction](concepts/Introduction.md)
 
 2. [Concepts](#concepts)
    - [Basics](#basics)
