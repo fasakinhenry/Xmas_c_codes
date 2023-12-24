@@ -1,10 +1,11 @@
-# Xmas_c_codes 🎄
+# Xmas_c_codes 🚀
 
-This is a repository to showcase all the C projects done in December 2023. 🚀
+This is a repository to showcase all the C projects completed in December 2023.
 
-## What is C? 🤔
+## What is C? 💻
 
-C is a procedural high-level programming language designed for system and application development. It's like the Santa Claus of programming, delivering efficient and versatile solutions. 🎅
+C is a procedural high-level programming language designed for system and application development. It is a compiled language, meaning it must pass through a compiler that converts the written code into a language the computer understands. C is a general-purpose programming language with enduring use in operating systems, device drivers, protocol stacks, and even application development (though this is decreasing with the advent of more high-level programming languages). It has also been used on different computer architectures, ranging from supercomputers to the smallest microcontrollers and embedded systems. C provides low-level access to memory and hardware, making it efficient for tasks like system programming. 🛠️
+
 
 ## Important Info on C 📊
 
