@@ -56,4 +56,8 @@ C is a very old and unique language. it comes with its own special syntax which 
 
 - **Lack of automatic garbage collection** : C lacks automatic garbage collection which is a feature that involves reclaiming memory from objects which are no longer in use in the library or app. This means developers must manually handle memory allocation and deallocation and this can lead to memory related errors if not handled properly.
 
-- **Lack of constructor and destructor ** : Since C isn't object oriented, it doesn't offer constructor and destructor features. Constructing or destructing a variable in C must be done manually through a function or by other means.
+- **Lack of constructor and destructor** : Since C isn't object oriented, it doesn't offer constructor and destructor features. Constructing or destructing a variable in C must be done manually through a function or by other means.
+
+- **Lack of Run-time checking** : C doesn't display code errors after each line of code; instead, all the errors are presented by the compiler after the program has been written. This can make code checking a challenge, especially for larger programs.
+
+- **Lack of Namespace features** : C lacks namespace features therefore same variables cannot be reused in one scope. It is therefore impossible to declare variables with the same name.
