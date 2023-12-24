@@ -53,3 +53,5 @@ C is a very old and unique language. it comes with its own special syntax which 
 - **Lack of Memory Management Safeguards** : C allows direct manipulation of memory, but this freedom can lead to issues like memory leaks, dangling pointers, and buffer overflows if not managed carefully.
 
 - **No Built-in String Type** : C does not have a built-in string type, and strings are typically represented as character arrays. This can lead to complexities and vulnerabilities in string manipulation.
+
+- **Lack of automatic garbage collection** : C lacks automatic garbage collection which is a feature that reclaims memory from objects which are no longer in use in the library or app.
