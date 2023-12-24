@@ -61,3 +61,5 @@ C is a very old and unique language. it comes with its own special syntax which 
 - **Lack of Run-time checking** : C doesn't display code errors after each line of code; instead, all the errors are presented by the compiler after the program has been written. This can make code checking a challenge, especially for larger programs.
 
 - **Lack of Namespace features** : C lacks namespace features therefore same variables cannot be reused in one scope. It is therefore impossible to declare variables with the same name.
+
+- **Lack of exception handling** : C basically relies on values and error codes for error handling and this can make code complex and error-prone compared to languages with exception handling mechanisms.
