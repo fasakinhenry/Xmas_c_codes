@@ -25,50 +25,48 @@ C is a procedural high-level programming language designed for system and applic
 | **Influenced by** | B (BCPL, CPL), ALGOL 68, PL/I, FORTRAN                                   |
 | **Influenced**    | Numerous: AMPL, AWK, csh, C++, C--, C#, Objective-C, D, Go, Java, JavaScript, JS++, Julia, Limbo, LPC, Perl, PHP, Pike, Processing, Python, Rust, Seed7, V (Vlang), Vala, Verilog (HDL), Nim, Zig 🌐|
 
-## Pros of using C 🌟
+ ## Pros of using C 🌟
 
-C is like the star on top of the programming tree. Here's why it shines:
+C is a very old and unique language. It comes with its own special syntax which has even been adopted by modern-day languages. The following are some of the reasons why C is preferred even in this modern age:
 
-- **Structure** : C is very structured, allowing you to break problems into smaller, more manageable pieces. Modularization for the win! 🧩
+- **Structure** : C is very structured in that it allows you to break a larger problem into smaller chunks (modularization). It breaks problems into modules and functions that are easier to debug, modify, and develop. 🧩
 
-- **Portability** : C can run on different platforms, making it the globetrotter of programming languages. ✈️
+- **Portability** : C has the capability to run on different platforms as it is very much machine-dependent, thereby making it possible to run on different machines. Even though C is very unique to the UNIX operating system, it still retains its portability and works on multiple platforms. ✈️
 
-- **Rich standard Library** : C comes with a comprehensive standard library, like a gift basket full of functions for common tasks. 🎁
+- **Rich standard Library** : C comes with a comprehensive standard library that provides a variety of functions for common tasks such as input/output operations, string manipulation, and memory allocation. These libraries make development easier. 📚
 
-- **Efficiency & Performance** : C is the speed racer of languages, with low-level data manipulation and minimal runtime overhead. 🏎️
+- **Efficiency & Performance** : C allows for low-level manipulation of data and has minimal runtime overhead, making it highly efficient. Its proximity to machine-level operations allows for fine-tuning and optimization. Also, C is a compiled language, making compilation and execution of code speedy since only required features are included. 🚀
 
-- **Extensibility** : C codes are like Lego blocks; you can add more features and functionalities with ease. 🚀
+- **Extensibility** : C codes are extensible in that when a code is written in C, more features and functionalities can be added with minor alterations. 🛠️
 
-- **Embedded systems development** : C is the superhero in the world of embedded systems, efficient and in control. 💪
+- **Embedded systems development** : C is widely used in embedded system development because of its efficiency and control over hardware resources. 💾
 
-- **Legacy code compatibility** : C is the time traveler, seamlessly integrating with existing codebases. ⌛
+- **Legacy code compatibility** : Many existing software systems and libraries are written in C. Knowledge of C allows developers to maintain and integrate with legacy codebases. ⏳
 
-- **Influences on other languages** : C is the wise elder, influencing the development of many modern languages. 🧙
+- **Influences on other languages** : C has had a significant influence on the development of other programming languages, such as C++, C#, and Objective-C. Learning C provides a solid foundation for understanding many modern languages. 🌐
 
-- **Versatility** : C is the chameleon, fitting in as a low-level language with high-level features. It's the Swiss Army knife of programming. 🦎
+- **Versatility** : C is said to be versatile in two ways. It is a general-purpose and can fit in perfectly as a low-level language and still have some of the features of high-level language. C is sometimes classified as a middle-level language but that is not a standard though. It is best regarded as a low-level language. C also offers a wide range of features ranging from system programming to application development and embedded systems. 🎭
 
 ## Cons of C 🚫
 
-Every hero has its weaknesses. Here are C's:
+C has its drawbacks as well. Here are some of the cons:
 
-- **Lack of OOP features** : C is not into the object-oriented party, missing out on features like classes and inheritance. 🎉
+- **Lack of OOP features** : C is not an object-oriented programming (OOP) language and therefore lacks features such as classes and inheritance. OOP is a feature that supports the creation of subclasses from parent classes, but C lacks this feature. Also, multiple inheritances are not possible in C unlike languages like C++, C# etc. This lack of OOP makes it difficult to reuse existing code. 🧱
 
-- **Lack of Memory Management Safeguards** : C's freedom with memory can lead to issues like memory leaks, like forgetting where you left your keys. 🤦‍♂️
+- **Lack of Memory Management Safeguards** : C allows direct manipulation of memory, but this freedom can lead to issues like memory leaks, dangling pointers, and buffer overflows if not managed carefully. 🧠
 
-- **No Built-in String Type** : C doesn't have a built-in string type, making strings a bit like a puzzle. 🔍
+- **No Built-in String Type** : C does not have a built-in string type, and strings are typically represented as character arrays. This can lead to complexities and vulnerabilities in string manipulation. 🔍
 
-- **Lack of automatic garbage collection** : C doesn't clean up after itself; memory management is a DIY project. 🧹
+- **Lack of automatic garbage collection** : C lacks automatic garbage collection, which is a feature that involves reclaiming memory from objects that are no longer in use in the library or app. This means developers must manually handle memory allocation and deallocation, and this can lead to memory-related errors if not handled properly. 🗑️
 
-- **Lack of constructor and destructor** : No fancy ceremonies here; constructing or destructing is done manually. 🏗️
+- **Lack of constructor and destructor** : Since C isn't object-oriented, it doesn't offer constructor and destructor features. Constructing or destructing a variable in C must be done manually through a function or by other means. 🏗️
 
-- **Lack of Run-time checking** : C doesn't hold your hand with real-time code errors; it's more of a surprise party at the end. 🎉
+- **Lack of Run-time checking** : C doesn't display code errors after each line of code; instead, all the errors are presented by the compiler after the program has been written. This can make code checking a challenge, especially for larger programs. 🚨
 
-- **Lack of Namespace features** : No sharing names in C; it's a solo act. 🚶
+- **Lack of Namespace features** : C lacks namespace features, therefore, the same variables cannot be reused in one scope. It is therefore impossible to declare variables with the same name. 🚷
 
-- **Lack of exception handling** : C deals with errors the old-fashioned way, with values and error codes. 🤷‍♂️
+- **Lack of exception handling** : C basically relies on values and error codes for error handling, and this can make code complex and error-prone compared to languages with exception handling mechanisms. 🚫
 
-- **Verbosity** : C code can be wordy, like a grandparent telling a story. 📜
+- **Verbosity** : C code can be more verbose compared to higher-level languages. Certain tasks may require more lines of code in C than in languages with more abstraction. 📜
 
-- **Limited Support for Multithreading** : C doesn't excel in juggling tasks simultaneously. 🤹‍♂️
-
-Let the coding festivities begin! 🎉💻
+- **Limited Support for Multithreading** : C does not have built-in support for multithreading, making concurrent programming more challenging compared to languages with native support for threading. 🕰️
