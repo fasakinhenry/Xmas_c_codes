@@ -3,8 +3,8 @@ CFLAGS = -Wall -Werror -Wextra -pedantic -std=gnu89
 SRC_DIR = projects
 BUILD_DIR = build
 
-# Get all .c files in the projects directory
-SRC = $(wildcard $(SRC_DIR)/*.c)
+# Get all .c files in the projects directory and its subdirectories
+SRC = $(wildcard $(SRC_DIR)/**/*.c)
 
 # Create a list of corresponding executables in the build directory
 EXECUTABLES = $(patsubst $(SRC_DIR)/%.c, $(BUILD_DIR)/%, $(SRC))
@@ -28,6 +28,16 @@ run: check_directories check_source_files check_executables all
 	@echo "Running executables..."
 	$(foreach exec, $(EXECUTABLES), ./$(exec);)
 	@echo "Executables run completed."
+
+# Phony target to open a specific executable
+.PHONY: open
+open: check_directories check_source_files check_executables
+	@if [ -z "$(executable)" ]; then \
+	    echo "Error: Please specify the name of the executable using 'make open nameofexecutable'"; \
+	    exit 1; \
+	fi
+	@echo "Running $(BUILD_DIR)/$(executable)..."
+	@./$(BUILD_DIR)/$(executable)
 
 # Check if required directories exist
 .PHONY: check_directories
