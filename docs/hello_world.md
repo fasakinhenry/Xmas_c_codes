@@ -104,6 +104,44 @@ int main(void)
 
 Check out the code [here](../concepts/0x00-Hello_world/hello_world.c)
 
+### Code examples
+
+1. Write a script that runs a C file through the preprocessor and save the result into another file.
+
+- The C file name will be saved in the variable $CFILE
+- The output should be saved in the file c
+
+#### Test
+
+```
+#include <stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+    return (0);
+}
+henqsoft@ubuntu:~/c/0x00$ export CFILE=main.c
+henqsoft@ubuntu:~/c/0x00$ ./0-preprocessor 
+henqsoft@ubuntu:~/c/0x00$ tail c
+# 942 "/usr/include/stdio.h" 3 4
+
+# 2 "main.c" 2
+
+
+# 3 "main.c"
+int main(void)
+{
+ return (0);
+}
+henqsoft@ubuntu:~/c/0x00$
+
+```
+
 [Go Home](../README.md)
 [previous](./Introduction.md)
 [Next](./introduction.md)
