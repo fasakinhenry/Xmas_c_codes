@@ -111,7 +111,7 @@ Check out the code [here](../concepts/0x00-Hello_world/hello_world.c)
 - The C file name will be saved in the variable $CFILE
 - The output should be saved in the file c
 
-#### Test
+- #### Test
 
 ```
 #include <stdio.h>
@@ -139,7 +139,6 @@ int main(void)
  return (0);
 }
 henqsoft@ubuntu:~/c/0x00$
-
 ```
 
 [Go Home](../README.md)
