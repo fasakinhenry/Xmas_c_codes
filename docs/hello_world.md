@@ -14,6 +14,7 @@ C is a low-level language(sometimes referred to as a mid-level language). It has
 ### Important sources to learn C
 
 - From this github Repository 😂
+- [Learn about C](https://en.wikipedia.org/wiki/C_(programming_language))
 - [“C” Programming Language: Brian Kernighan - video](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 - [Learn why C is awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
 - [Learning to program in C-part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
@@ -23,8 +24,6 @@ C is a low-level language(sometimes referred to as a mid-level language). It has
 ### Prerequisites
 
 - Make sure you have a C compiler installed on your system. If not, you can install one like GCC. On Linux, gcc is automatically present.
-
-### Installation steps
 
 ### Install GCC on Windows:
 
@@ -74,7 +73,7 @@ C is a low-level language(sometimes referred to as a mid-level language). It has
      ```
    - If there are no errors, run the compiled program:
      ```bash
-     test
+     ./test
      ```
 
 7. **Verify Output:**
@@ -84,3 +83,27 @@ C is a low-level language(sometimes referred to as a mid-level language). It has
      ```
 
 If you see the expected output, GCC is successfully installed and configured on your Windows system.
+
+## A sample hello world program in C
+
+```C
+#include <stdio.h>
+
+/**
+ * main - Entry point of our program
+ * prints the phrase hello world
+ * return: Always 0 (success)
+ */
+
+int main(void)
+{
+	/* Print a phrase*/
+	printf("Hello world");
+}
+```
+
+Check out the code [here](../concepts/0x00-Hello_world/hello_world.c)
+
+[Go Home](../README.md)
+[previous](./introduction.md)
+[Next](./introduction.md)
