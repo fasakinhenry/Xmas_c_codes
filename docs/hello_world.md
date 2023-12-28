@@ -105,5 +105,5 @@ int main(void)
 Check out the code [here](../concepts/0x00-Hello_world/hello_world.c)
 
 [Go Home](../README.md)
-[previous](./introduction.md)
+[previous](./Introduction.md)
 [Next](./introduction.md)
