@@ -84,5 +84,3 @@ C is a low-level language(sometimes referred to as a mid-level language). It has
      ```
 
 If you see the expected output, GCC is successfully installed and configured on your Windows system.
-
-

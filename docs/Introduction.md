@@ -62,3 +62,6 @@ C is a very old and unique language. it comes with its own special syntax which 
 - **Lack of exception handling** : C basically relies on values and error codes for error handling and this can make code complex and error-prone compared to languages with exception handling mechanisms.
 
 - **Verbosity** : C code can be more verbose compared to higher-level languages. Certain tasks may require more lines of code in C than in languages with more abstraction.
+
+[Go Home](../README.md)
+[Next](./hello_world.md)

@@ -7,7 +7,7 @@ This is a repository to show all the c projects done december 2023
 
 2. [Concepts](#concepts)
    - [Basics](#basics)
-     - [0x00. C - Hello, World](#0x00-c---hello-world)
+     - [0x00. C - Hello, World](docs/hello_world.md)
      - [0x01. C - Variables, if, else, while](#0x01-c---variables-if-else-while)
      - [0x02. C - Functions, nested loops](#0x02-c---functions-nested-loops)
      - [0x04. C - More functions, more nested loops](#0x04-c---more-functions-more-nested-loops)
