@@ -48,6 +48,26 @@ We welcome pull requests! Before submitting a PR, please make sure:
 - Check and correct your spellings
 - Add code examples
 
+## Commit messages
+
+When making commits, be sure to use the following prefix when appropriate
+
+- feat: A new feature for the user.
+- fix: A bug fix for the user.
+- docs: Documentation changes.
+- style: Code style changes (formatting, etc.).
+- refactor: Code refactoring (without adding new features or fixing bugs).
+- test: Adding or modifying tests.
+- chore: Routine tasks, maintenance, or tooling changes.
+
+Your commit style should be in the imperative. A good example of commit message is:
+
+```
+feat: Add user authentication with OAuth
+
+Implemented OAuth2.0 for user authentication using Google Sign-In. This adds a secure and convenient way for users to log in and access personalized content. Includes necessary backend changes and updates to the login UI. Resolves #123.
+```
+
 ## License
 
 - By contributing to this repository, you agree that your contributions will be licensed under . See [LICENSE](./LICENSE) for details.
