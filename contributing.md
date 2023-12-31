@@ -62,7 +62,7 @@ When making commits, be sure to use the following prefix when appropriate
 
 Your commit style should be in the imperative. A good example of commit message is:
 
-```
+``` git
 feat: Add user authentication with OAuth
 
 Implemented OAuth2.0 for user authentication using Google Sign-In. This adds a secure and convenient way for users to log in and access personalized content. Includes necessary backend changes and updates to the login UI. Resolves #123.
