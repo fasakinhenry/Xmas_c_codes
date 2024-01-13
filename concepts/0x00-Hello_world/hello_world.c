@@ -9,5 +9,5 @@
 int main(void)
 {
 	/* Print a phrase*/
-	printf("Hello world");
+	printf("Hello world\n");
 }
