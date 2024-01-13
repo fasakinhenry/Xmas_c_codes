@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define tokenpaster(n) printf("token" #n " = %d\n", token##n)
+#define tokenpaster(n) printf("token"#n " = %d\n", token##n)
 
 /**
  * main - demonstrates the tokenpaster functionality
