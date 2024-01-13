@@ -6,6 +6,8 @@
 /* betty style doc for function main goes there */
 /**
  * main - prints a statement to shoe if a random value is +ve or -ve
+ * Return: Always 0 (success)
+ * on error, -1 is returned
 */
 int main(void)
 {
