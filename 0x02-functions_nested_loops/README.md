@@ -4,12 +4,27 @@
 
 This project ensures learning of the functions concept since C is a procedural language.
 
+## Requirements
+
+- All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+- All yor files should end with a new line
+- A readme.md should be at the root of every directory
+- Your code should use the `betty` style
+- You are not allowed to use global variables
+- You should not have more than 5 functions per file
+- You are allowed to use [_putchar](https://github.com/alx-tools/_putchar.c/blob/master/_putchar.c)
+- The prototypes of all your functions should be included in the header files
+- Your header files should be include guarded
+
 ## Resources
-- [Nested while loops](#)
-- [C - Functions](#)
-- [Learning to Program in C (Part 06) (stop at 14:00)](#)
-- [What is the purpose of a function prototype?](#)
-- [C - Header Files (stop before the “Once-Only Headers” paragraph)](#)
+
+You can do well to read or watch the following
+
+- [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
+- [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
+- [Learning to Program in C (Part 06) (stop at 14:00)](https://www.youtube.com/watch?v=qMlnFwYdqIw)
+- [What is the purpose of a function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
+- [C - Header Files (stop before the “Once-Only Headers” paragraph)](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
 
 ## Learning Objectives
 By the end of this project, you should be able to explain the following without using Google:
