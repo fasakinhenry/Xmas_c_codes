@@ -7,9 +7,9 @@ This project ensures learning of the functions concept since C is a procedural l
 ## Requirements
 
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-- All yor files should end with a new line
+- All your files should end with a new line
 - A readme.md should be at the root of every directory
-- Your code should use the `betty` style
+- Your code should use the `Betty` style
 - You are not allowed to use global variables
 - You should not have more than 5 functions per file
 - You are allowed to use [_putchar](https://github.com/alx-tools/_putchar.c/blob/master/_putchar.c)
